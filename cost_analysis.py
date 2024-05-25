@@ -9,7 +9,6 @@ def calculate_costs():
     raspberry_pi_cost = get_input("Raspberry Pi Pico cost ₹", 300)
 
 
-how to save it in github repsoitory asn add a hyperlink whose name is Implementation of basic framewrok for Cost analysis.
     temp_sensor_cost = get_input("Temperature Sensor (DS18B20) cost ₹", 400)
     vibration_sensor_cost = get_input("Vibration Sensor (SW-420) cost ₹", 150)
     current_sensor_cost = get_input("Current Sensor (ACS712) cost ₹", 250)
